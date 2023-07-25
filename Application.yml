@@ -1,8 +1,4 @@
-spring:
-  data:
-  application:
-    name: Trail
-  
+ 
 eureka:
   instance:
     prefer-ip-address: true
